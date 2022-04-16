@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-sequencer/static/css/main.51d54486.css",
+    "main.js": "/web-sequencer/static/js/main.e40575ef.js",
+    "index.html": "/web-sequencer/index.html",
+    "main.51d54486.css.map": "/web-sequencer/static/css/main.51d54486.css.map",
+    "main.e40575ef.js.map": "/web-sequencer/static/js/main.e40575ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51d54486.css",
+    "static/js/main.e40575ef.js"
+  ]
+}
