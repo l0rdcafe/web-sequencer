@@ -35,7 +35,6 @@ body {
 
 #sequencer {
   width: 84vw;
-  max-width: 900px;
   min-width: 600px;
   margin: 0 auto;
   background-color: var(--boxMain);
